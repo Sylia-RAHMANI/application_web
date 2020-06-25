@@ -1,0 +1,106 @@
+[{
+    "type": "FeatureCollection",
+    "features": [{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [48.8566101, 2.3514992]
+            },
+            "question": "Ce drapeau fait réfèrence à quel pays sur la carte ?",
+            "properties": {
+                "pays": {
+                    "name": "France",
+                    "polygone": "../modéle/countries/data/fra.geo.json",
+                    "flag": "../modéle/countries/data/fra.svg",
+                    "surface": "675418 ",
+                    "description": "Vieux quartier médiéval, la Petite France est une zone piétonne où vous pourrez vous promener dans des rues pavées avec des maisons vieilles d’un à cinq siècles, quelques-uns des plus beaux exemples de maisons à colombages, l’architecture traditionnelle alsacienne. D’après des petits détails encore visibles, nous allons vous décrire la vie des habitants, vous conduisant sur les nombreux ponts qui composent cette partie unique de notre ville.",
+                    "image":"../modéle/css/images/Paris.jpg",
+                    "lien": "https://fr.wikipedia.org/wiki/France"
+                    
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [47.2000338, 13.199959]
+            },
+            "question": "Ce drapeau fait référence à quel pays sur la carte?",
+            "properties": {
+                "pays": {
+                    "name": "Autriche",
+                    "polygone": "../modéle/countries/data/aut.geo.json",
+                    "flag": "../modéle/countries/data/aut.svg",
+                    "surface": "83870",
+                    "description": "L'Autriche est un pays germanophone d'Europe centrale caractérisé par des villages de montagne, une architecture baroque, une histoire impériale et des terrains alpins escarpés. Située sur le Danube, Vienne, la capitale, abrite les palais de Schönbrunn et Hofburg. Mozart, Strauss et Freud ont habité la ville. Le pays compte d'autres régions notables comme la forêt de Bohême et le lac Traunsee, au nord, et les collines de vignobles à l'est.",
+                    "image":"../modéle/css/images/autriche.jpg",
+                    "lien": "https://fr.wikipedia.org/wiki/autriche"
+                }
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [39.3262345, -4.8380649]
+            },
+            "question": "Ce drapeau fait référence à quel pays sur la carte?",
+            "properties": {
+                "pays": {
+                    "name": "Espagne",
+                    "polygone": "../modéle/countries/data/esp.geo.json",
+                    "flag": "../modéle/countries/data/esp.svg",
+                    "surface": "504782",
+                    "description": "Des siècles d'histoire ont légué à l'Espagne un héritage culturel impressionnant. Il s'agit d'ailleurs du troisième pays au monde en nombre de sites classés au patrimoine mondial par l'UNESCO. En outre, ses quelque 1 400 musées renferment des chefs-d'œuvre de grands artistes comme Goya, Picasso et Velázquez, véritables emblèmes de la culture espagnole.",
+                    "image":"../modéle/css/images/espagne.jpg",
+                    "lien": "https://fr.wikipedia.org/wiki/Espagne"
+                }
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [50.6402809, 4.6667145]
+            },
+            "question": "Ce drapeau fait référence à quel pays sur la carte?",
+            "properties": {
+                "pays": {
+                    "name": "Belgique",
+                    "polygone": "../modéle/countries/data/bel.geo.json",
+                    "flag": "../modéle/countries/data/bel.svg",
+                    "surface": "30528",
+                    "description": "Pays de dimensions réduites (guère plus étendu que la Bretagne), au relief modéré (s'élevant vers le sud-est, de la plaine de Flandre à l'Ardenne, mais culminant seulement à 694 m), au climat océanique doux et humide, la Belgique est densément peuplée (environ 340 habitants au km2, plus du triple de la densité française).",
+                    "image":"../modéle/css/images/belgique.jpg",
+                    "lien": "https://fr.wikipedia.org/wiki/Belgique"
+                }
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [40.0332629, -7.8896263]
+            },
+            "question": "Ce drapeau fait référence à quel pays sur la carte?",
+            "properties": {
+                "pays": {
+                    "name": "Portuagl",
+                    "polygone": "../modéle/countries/data/prt.geo.json",
+                    "flag": "../modéle/countries/data/prt.svg",
+                    "surface": "30528",
+                    "description": "Le Portugal, suscite un intérêt certain pour un grand nombre de visiteur du monde entier. Terre aux multiples influences, la richesse culturelle, le charme, les paysages typiques et tournés vers la mer et le charme typique du Pays apporteront à coup sûr de fabuleux souvenirs de voyage.",
+                    "image":"../modéle/css/images/portugal.jpg",
+                    "lien": "https://fr.wikipedia.org/wiki/Portuagl"
+                }
+
+            }
+        }
+
+
+    ]
+}]

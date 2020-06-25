@@ -1,0 +1,35 @@
+#map {
+    width: 1110px; height: 900px;
+    margin: auto;
+}
+#m{
+
+    margin-right:120px;
+    margin-left: 80px;
+    margin-top: 2%;
+    padding:20px;
+    background-color:#F4A460;
+    background-color :rgba(244, 164, 96, 0.70);
+  }
+
+
+
+
+.info {
+    padding: 8px 10px;
+    border-radius: 50% !important;
+    background:  #fed136;
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+}
+
+.info h5 {
+    margin: 0 0 5px;
+    color: #f1c40f;
+    font-size: 3rem;
+    font-weight: 300;
+    letter-spacing: 1px;
+    line-height: 2rem;
+}

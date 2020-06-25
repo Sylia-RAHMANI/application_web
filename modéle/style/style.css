@@ -1,0 +1,63 @@
+
+#div1{
+    width: 500px;
+    height: 570px;
+    
+}
+
+#div2{
+    width: 800px;
+    height: 570px;
+    
+}
+
+
+
+#div3{
+    width: 780px;
+    height: 55px;
+    
+}
+
+
+#div3 button{
+    margin-left: 350px;
+    margin-top: 5px;  
+}
+
+#bravo{
+    border-radius: 20px;
+}
+#img{
+    width : 200px ;
+    height : 180px;
+    float: right;
+}
+#description{
+    font-size: 0.9em;
+}
+#body1{
+    background-color:rgb(233, 150, 122);
+}
+#divHaut{
+    margin-top: 100px;
+}
+#map {
+    width: 100%;
+    height: 900px;
+    margin-bottom: 10px;
+}
+
+.info {
+    padding: 6px 8px;
+    font: 14px/16px 'Montez', cursive;
+    /* background: white; */
+    background: #fed136;
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    border-radius: 5px;
+}
+
+.info h5 {
+    margin: 0 0 5px;
+    color: #f1c40f;
+}

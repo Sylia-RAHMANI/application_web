@@ -1,0 +1,31 @@
+body{
+		 
+		
+			background-color: #212529;
+			padding-top: 10.5rem;
+			padding-bottom: 6rem;
+			text-align: center;
+			color: #fff;
+			background-image: url("../assets/img/map-image.png");
+			background-repeat: no-repeat;
+			background-attachment: scroll;
+			background-position: center center;
+			background-size: cover;
+
+}
+
+.btn{
+	margin-left: 30px;
+	
+}
+.btn-primary{
+  color: #fff;
+  background-color: solde  #fed136;
+  border-color: solde #fed136;
+}
+
+
+label{
+	color:#fff;
+
+}
